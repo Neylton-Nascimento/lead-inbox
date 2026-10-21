@@ -4,5 +4,5 @@
 // Leave notifyEmail empty while endpoint is set.
 window.LEAD_INBOX = {
   notifyEmail: "",
-  endpoint: "https://formsubmit.co/ajax/9d22ae789778cc37da7bc92cb1574f80",
+  endpoint: "https://formsubmit.co/ajax/d2ff7ed43113e4db0ae55051880f054",
 };
